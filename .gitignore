@@ -73,5 +73,3 @@ crashlytics-build.properties
 
 # JJC Assets
 /[Aa]ssets/[Rr]esources/[Pp]rojectAssets
-Packages/packages-lock.json
-Packages/manifest.json
